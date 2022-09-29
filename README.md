@@ -1,1 +1,1 @@
-# AI_day3
+# AI_day3_fuzzy_logic
